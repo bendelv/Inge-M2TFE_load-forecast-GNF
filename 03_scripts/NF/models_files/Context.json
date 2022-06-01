@@ -1,0 +1,7 @@
+{
+  "in_size": 192,
+  "cond_in": 198,
+  "hidden": [200, 200, 200],
+  "out_size": 2,
+  "nb_steps": 1
+}
